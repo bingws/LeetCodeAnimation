@@ -58,6 +58,7 @@ public:
 
             record[nums[i]] = i;
         }
+        return {};
     }
 };
 
